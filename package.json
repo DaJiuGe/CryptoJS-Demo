@@ -1,0 +1,17 @@
+{
+  "name": "crypto-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aes-decrypter": "^4.0.1",
+    "crypto-js": "^4.1.1",
+    "pkcs7": "^1.0.4"
+  }
+}
